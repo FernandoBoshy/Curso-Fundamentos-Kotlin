@@ -1,4 +1,4 @@
-package Funçoes
+package Funcoes
 
 class Operacoes{
     fun somar(a: Int, b: Int): Int{

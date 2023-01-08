@@ -1,4 +1,4 @@
-package Funçoes
+package Funcoes
 
 fun incremento(x: Int){ // parametros de uma função são constantes
     //num++  // num = num + 1

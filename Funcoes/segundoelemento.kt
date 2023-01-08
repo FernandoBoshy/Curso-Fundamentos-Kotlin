@@ -1,4 +1,4 @@
-package Funçoes
+package Funcoes
 
 fun <E>List<E>.second_or_null(): E? = if(this.size >= 2) this.get(1) else null
 

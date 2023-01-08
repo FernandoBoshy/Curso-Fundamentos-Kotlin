@@ -1,4 +1,4 @@
-package Funçoes;
+package Funcoes;
 
 import kotlin.collections.CollectionsKt;
 

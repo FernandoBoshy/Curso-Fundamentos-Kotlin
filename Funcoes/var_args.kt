@@ -1,4 +1,4 @@
-package Funçoes
+package Funcoes
 
 fun ordenar(vararg numero: Int): IntArray{
     return numero.sortedArray()

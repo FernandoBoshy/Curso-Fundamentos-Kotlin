@@ -1,4 +1,4 @@
-package Funçoes
+package Funcoes
 
 inline fun transacao(funcao:() -> Unit) {  // a função inline tem uma função como param // () significa que essa função não tem param // Unit = retorna void
     println("abrindo transação...")

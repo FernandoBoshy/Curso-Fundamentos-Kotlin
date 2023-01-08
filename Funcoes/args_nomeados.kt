@@ -1,4 +1,4 @@
-package Funçoes
+package Funcoes
 
 fun relacao_trabalho(chefe: String, funcionario: String): String{
     return "$funcionario é subordinado de $chefe."

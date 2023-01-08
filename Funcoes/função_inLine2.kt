@@ -1,4 +1,4 @@
-package Funçoes
+package Funcoes
 
 inline fun <T> executar_com_log(nome_funcao: String, funcao: () -> T): T {
     println("entrando método $nome_funcao. . .")

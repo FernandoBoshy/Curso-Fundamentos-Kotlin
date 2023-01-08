@@ -1,4 +1,4 @@
-package Funçoes
+package Funcoes
 
 fun imprime_maior(a: Int, b: Int){
     println(Math.max(a, b))
